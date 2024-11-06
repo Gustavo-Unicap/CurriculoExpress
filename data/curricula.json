@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "João Silva",
+      "profession": "Desenvolvedor Full Stack",
+      "experience": "5 anos de experiência em desenvolvimento web.",
+      "education": "Bacharel em Ciência da Computação - Universidade X",
+      "skills": ["JavaScript", "Node.js", "React", "SQL"]
+    },
+    {
+      "id": 2,
+      "name": "Maria Oliveira",
+      "profession": "Designer Gráfico",
+      "experience": "3 anos de experiência em design gráfico e UI/UX.",
+      "education": "Design Gráfico - Faculdade Y",
+      "skills": ["Photoshop", "Illustrator", "Figma", "UI/UX"]
+    }
+  ]
+  
